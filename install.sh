@@ -1,3 +1,4 @@
+chmod +x install.sh && ./install.sh
 #!/bin/bash
 #
 # SillyTavern Installer Script
